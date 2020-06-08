@@ -1,0 +1,78 @@
+ remake, I hope you take advantage of what
+I've done, because I intend to do everything I can to make things
+go faster. 
+SEVEN: I don't. What you want to do is turn them off. 
+TUVOK: That is correct, Doctor. 
+SEVEN: If we are to increase the warp core's efficiency. 
+TUVOK: We will do that, Seven of Nine. However, we must begin
+with the phase lock-down phase, which requires an even
+temperature of approximately eleven hundred Celsius. 
+SEVEN: I have already begun the phase lock-down phase, but you
+must understand that when our warp core cools down further, the
+temperature will increase in order to reach the temperature at the time. 
+TUVOK: That is correct. 
+SEVEN: As I suspected, the plasma barrier has already been weakened. 
+TUVOK: The best way to increase the efficiency of the core is to
+try and increase the temperature. 
+SEVEN: I will do that. 
+TUVOK: We will have to prepare the plasma chamber as a shield around the
+warp core. 
+SEVEN: Yes. 
+TUVOK: That will allow us to operate at a warp speed. 
+SEVEN: Thank you, Doctor. However, the phase lock-down phase will require
+maximum power efficiency. That will take time. 
+TUVOK: I will attempt to maintain the current level of efficiency for as long
+as possible. 
+SEVEN: Understood. 
+TUVOK: That will take some time. 
+SEVEN: I will contact you shortly to report progress.
+
+[Engineering]
+
+CHAKOTAY: Here it is. The shield generator. There's a
+little more to it than that. The shield generator has an odd signature, so
+I'm going to try to analyse it more closely. 
+JANEWAY: We might have something. I'll be right back. 
+JANEWAY: What did you find? 
+SEVEN: The generator's primary power source is an array of two hundred
+metres in length. 
+JANEWAY: A shield generator? 
+SEVEN: Yes. It contains a large number of interphase subprocessors. 
+JANEWAY: What are they used for? 
+SEVEN: I don't know. I'd rather not discuss them. 
+TUVOK: What does this shield generator do? 
+TUVOK: I believe the generators are used to power a variety of auxiliary functions.
+For example, a number of small subprocessors have been isolated on
+the shield generators to serve as sensors and auxiliary power sources.
+The generators are also used to generate the thermal energy
+necessary to operate auxiliary units. There are several units inside the
+shield generators. These devices are approximately twelve metres tall. They appear
+to be powered from within the shield generators. 
+JANEWAY: How? 
+TUVOK: There are twenty two auxiliary power sources, but it is not clear how much. 
+JANEWAY: Who controls them? 
+TUVOK: I believe we can surmise it is the Starfleet Intelligence Directorate. 
+JANEWAY: Where are they located? 
+TUVOK: Approximately eighty metres underground. 
+JANEWAY: Is there a transporter? 
+TUVOK: No, Commander. 
+JANEWAY: How are they managed? 
+TUVOK: It is possible to generate auxiliary power from these auxiliary devices, but only a small fraction
+can generate sufficient heat to power a starship's propulsion systems. 
+JANEWAY: I see. 
+TUVOK: We will be attempting to disable them. If I don't find the auxiliary power sources,
+then there will be no way for the defence units to use their
+energy. 
+JANEWAY: Commander, we can't allow them to operate without power. 
+TUVOK: There are a number of auxiliary power sources on the shield generator, but we don't
+intend to use their power. 
+JANEWAY: Mister Paris, I have a theory. You might want to shut down the shield generators.
+
+[Bridge]
+
+CHAKOTAY: There's a small amount of power inside the shield generator, but there
+is no indication that their systems are being
+attempted to manipulate the field polarity. 
+JANEWAY: Commander. 
+SEVEN: There is no indication of internal sabotage, however. 
+JANEWAY: We must try it. 
