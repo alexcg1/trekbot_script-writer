@@ -14,11 +14,11 @@ class Diag:
     import csv
     import os
 
-    def setup(filename):
+    def setup(file_path):
 #         logwriter = csv.writer(csvfile, delimiter=' ', quotechar='|', quoting=csv.QUOTE_MINIMAL)
 #         pass
         
-        loss_log = os.path.join("/", "kaggle", "working", "diagnostics", filename)
+        loss_log = file_path
         log_headers = ["Time", "Learning Rate", "Loss"]
         
         if not os.path.exists(loss_log):
