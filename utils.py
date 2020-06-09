@@ -9,6 +9,10 @@ class Setup:
                 print(f"Created {directory}")
             else:
                 print(f"Skipped {directory}. It already exists")
+
+        # Delete default Colab sample data folder
+        if os.path.exists('sample_data'):
+            !rm -rf sample_data
                 
 class Diag:
     import csv
@@ -24,7 +28,7 @@ class Diag:
         if not os.path.exists(loss_log):
             print(f"Creating new log at {loss_log}")
             with open(loss_log, 'w', newline='') as csvfile:
-                  logwriter = csv.writer(csvfile, delimiter=' ', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+                  logwriter = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
                   logwriter.writerow(log_headers)
         else:
             print(f"Using existing log")
@@ -38,5 +42,5 @@ class Diag:
             raise IOError(f"File {file_path} not found")
         else:
             with open(file_path, 'a', newline='') as csvfile:
-                  logwriter = csv.writer(csvfile, delimiter=' ', quotechar='|', quoting=csv.QUOTE_MINIMAL)
+                  logwriter = csv.writer(csvfile, delimiter=',', quoting=csv.QUOTE_MINIMAL)
                   logwriter.writerow(data)
