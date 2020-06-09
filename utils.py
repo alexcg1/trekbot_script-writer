@@ -1,5 +1,6 @@
 import csv
 import os
+import shutil
 
 class Setup:
     def dir_setup(dir_list):
@@ -12,7 +13,8 @@ class Setup:
 
         # Delete default Colab sample data folder
         if os.path.exists('sample_data'):
-            !rm -rf sample_data
+            shutil.rmtree('sample_data')
+
                 
 class Diag:
     import csv
